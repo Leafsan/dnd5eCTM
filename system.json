@@ -120,5 +120,5 @@
   "compatibleCoreVersion": "9",
   "url": "https://github.com/LeafSan/dnd5eCTM/",
   "manifest": "https://raw.githubusercontent.com/LeafSan/dnd5eCTM/master/system.json",
-  "download": "https://github.com/LeafSan/dnd5eCTM/dnd5eCTM.zip"
+  "download": "https://github.com/LeafSan/dnd5eCTM/releases/download/release-1.0.0/dnd5eCTM-1.0.0.zip"
 }
